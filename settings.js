@@ -17,7 +17,7 @@ global.APIKeys = {
 //language 
 global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
 
-global.BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN" //create bot here https://t.me/BotFather and get the bot token
+global.BOT_TOKEN = "7227794454:AAE7tjW5T5ncj1P3lSLknb_hSPmd6var7Lg" //create bot here https://t.me/BotFather and get the bot token
 global.BOT_NAME = "ོYaIniBot" //your bot name
 global.OWNER_NAME = "YASA" //your name
 global.OWNER_NUMBER = "6281333941785" //your telegram number
